@@ -1,4 +1,4 @@
-# Determine if text is palindromic
+# Determine if text is a palindrome
 
 ## Description
 
